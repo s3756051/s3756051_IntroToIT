@@ -127,14 +127,20 @@ h1.name {
 	margin-top: 10px;
 }
 
-.lead {
-  font-size: 24px;
+h2.lead {
+  font-size: 28px;
   letter-spacing: 5px;
-	font-weight: 300;
+	font-weight: 400;
   margin-top: 30px;
 	line-height: 35px;
 }
-
+h3.lead {
+	font-size: 24px;
+	letter-spacing: 5px;
+	  font-weight: 300;
+	margin-top: 30px;
+	  line-height: 35px;
+  }
 .paragraph {
   font-size: 16px;
   letter-spacing: 2px;
